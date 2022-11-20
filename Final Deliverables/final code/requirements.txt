@@ -1,6 +1,7 @@
 Flask
 requests
+flask_db2
+DB2
+ibm_db
 jsonify
-mysql-connector-python
-flask_mysqldb
 sendgrid
